@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.42c40981.chunk.css",
-  "main.js": "/static/js/main.1c7abd3d.chunk.js",
-  "main.js.map": "/static/js/main.1c7abd3d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b7c19b74f13e1d712d6f020d4dab37a8.js": "/precache-manifest.b7c19b74f13e1d712d6f020d4dab37a8.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.42c40981.chunk.css.map": "/static/css/main.42c40981.chunk.css.map",
-  "static/media/silcon-systems-logo.png": "/static/media/silcon-systems-logo.00e1e496.png"
+  "main.css": "/saben-app-silcon/static/css/main.42c40981.chunk.css",
+  "main.js": "/saben-app-silcon/static/js/main.db70adca.chunk.js",
+  "main.js.map": "/saben-app-silcon/static/js/main.db70adca.chunk.js.map",
+  "runtime~main.js": "/saben-app-silcon/static/js/runtime~main.99da6b0c.js",
+  "runtime~main.js.map": "/saben-app-silcon/static/js/runtime~main.99da6b0c.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/saben-app-silcon/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/saben-app-silcon/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/saben-app-silcon/index.html",
+  "precache-manifest.785477a2dff0b89dd04c657fc3ba787f.js": "/saben-app-silcon/precache-manifest.785477a2dff0b89dd04c657fc3ba787f.js",
+  "service-worker.js": "/saben-app-silcon/service-worker.js",
+  "static/css/main.42c40981.chunk.css.map": "/saben-app-silcon/static/css/main.42c40981.chunk.css.map",
+  "static/media/silcon-systems-logo.png": "/saben-app-silcon/static/media/silcon-systems-logo.00e1e496.png"
 }
