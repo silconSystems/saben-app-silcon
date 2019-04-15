@@ -12,7 +12,7 @@ class App extends Component {
             Our new site is under construction.
           </h1>
           <h3>
-            In the mean time you can ...
+            In the mean time you can ç...
           </h3>
           <div id="contact">
             <h3>
