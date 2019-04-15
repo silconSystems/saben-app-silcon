@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/saben-app-silcon/precache-manifest.c3c0c74027a75cd2ae9ed1cb5c176088.js"
+  "/saben-app-silcon/precache-manifest.785477a2dff0b89dd04c657fc3ba787f.js"
 );
 
 workbox.clientsClaim();

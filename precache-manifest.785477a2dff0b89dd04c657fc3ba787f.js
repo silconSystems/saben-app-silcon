@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/saben-app-silcon/static/js/runtime~main.99da6b0c.js"
   },
   {
-    "revision": "3d0953cfeef4044fd0de",
-    "url": "/saben-app-silcon/static/js/main.b9960447.chunk.js"
+    "revision": "95ddda5bf9232f9a38f9",
+    "url": "/saben-app-silcon/static/js/main.db70adca.chunk.js"
   },
   {
     "revision": "45124f853ba07aa965c0",
     "url": "/saben-app-silcon/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "3d0953cfeef4044fd0de",
+    "revision": "95ddda5bf9232f9a38f9",
     "url": "/saben-app-silcon/static/css/main.42c40981.chunk.css"
   },
   {
-    "revision": "593555cc6114cc3a8d40b954372fc00c",
+    "revision": "4d374ebc2b2c84aa127d8f20764049bf",
     "url": "/saben-app-silcon/index.html"
   }
 ];
