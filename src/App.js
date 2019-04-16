@@ -16,7 +16,7 @@ class App extends Component {
           </h3>
           <div id="contact">
             <h3>
-              <a href="mailto:silcon@btconnect">email us</a> | <a href="tel:+442887723861" > call us </a>
+              <a href="mailto:silcon@btconnect.com">email us</a> | <a href="tel:+442887723861" > call us </a>
             </h3>
           </div>
         </header>
